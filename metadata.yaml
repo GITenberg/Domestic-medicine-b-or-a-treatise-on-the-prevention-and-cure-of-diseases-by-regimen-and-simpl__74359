@@ -1,0 +1,29 @@
+_repo: Domestic-medicine-b-or-a-treatise-on-the-prevention-and-cure-of-diseases-by-regimen-and-simpl__74359
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, William
+    gutenberg_agent_id: '57466'
+    url: http://www.gutenberg.org/2009/agents/57466
+description: ''
+gutenberg_issued: '2024-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74359'
+language: en
+pgterms:marc904: https://archive.org/details/b21721968_0001
+pgterms:marc905: 20230129133348buchan
+pgterms:marc906: '1791'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bprinted for A. Strahan, T. Cadell, $c1791.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Domestic medicine: : $b or, a treatise on the prevention and cure of diseases
+  by regimen and simple medicines. With an appendix, containing a dispensatory for
+  the use of private practitioners'
+url: http://www.gutenberg.org/ebooks/74359
