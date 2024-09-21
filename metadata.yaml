@@ -1,11 +1,16 @@
 _repo: Domestic-medicine-b-or-a-treatise-on-the-prevention-and-cure-of-diseases-by-regimen-and-simpl__74359
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74359-h/images/cover.jpg
 creator:
   author:
     agent_name: Buchan, William
     gutenberg_agent_id: '57466'
     url: http://www.gutenberg.org/2009/agents/57466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74359#Domestic-medicine-b-or-a-treatise-on-the-prevention-and-cure-of-diseases-by-regimen-and-simpl_
 gutenberg_issued: '2024-09-03'
 gutenberg_type: Text
 identifiers:
